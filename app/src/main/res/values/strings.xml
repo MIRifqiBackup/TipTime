@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Material Login</string>
+    <string name="primary_color">Primary color</string>
+    <string name="button">Button</string>
+    <string name="secondary_color">Secondary color</string>
+    <string name="email_icon">email icon</string>
+
+    <string name="shr_hint_username">Username</string>
+    <string name="shr_hint_password">Password</string>
+    <string name="shr_button_next">Next</string>
+    <string name="shr_button_cancel">Cancel</string>
+    <string name="shr_error_password">Password must contain at least 8 characters.</string>
+
+</resources>
